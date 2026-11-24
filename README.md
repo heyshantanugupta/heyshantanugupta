@@ -11,10 +11,6 @@
 
 My work combines UX research, product research, consumer insights, behavioral research, and analytics to better understand people and support evidence-based product decisions. I also work with AI, from AI usability research to building AI agents, and I study how people play, with a background in game development.
 
-## What I build
-
-**[AutoSMM](https://github.com/heyshantanugupta/autosmm)** is a social media marketing agent. It turns a short product description into a strategy, a 30-day plan and ready-to-edit drafts. It is a free desktop app for Windows and Mac, you bring your own AI key, and it never posts for you.
-
 ## Research case studies
 
 - [Building trust in AI-powered interview experiences](https://github.com/heyshantanugupta/building-trust-in-ai-powered-interview-experiences)
