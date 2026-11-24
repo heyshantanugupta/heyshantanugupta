@@ -38,7 +38,7 @@ My work combines UX research, product research, consumer insights, behavioral re
 
 ## Background
 
-I hold an MBA, a B.Tech, and an MS in Interactive Technologies. My published research looks at cooperative player behavior in multiplayer games.
+I hold an M.S, MBA, and a B.Tech. My published research looks at cooperative player behavior in multiplayer games.
 
 ## Say hello
 
