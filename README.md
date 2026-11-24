@@ -9,11 +9,11 @@
   <a href="https://www.linkedin.com/in/heyshantanu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-heyshantanu-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-My work combines UX research, product research, consumer insights, behavioral research, and analytics to better understand people and support evidence-based product decisions. I also study how people play, with a background in game design and game development.
+My work combines UX research, product research, consumer insights, behavioral research, and analytics to better understand people and support evidence-based product decisions. I also work with AI, from AI usability research to building AI agents, and I study how people play, with a background in game development.
 
 ## What I build
 
-**[AutoSMM](https://github.com/heyshantanugupta/autosmm)** is a free desktop app that turns a short product description into a social media strategy, a 30-day plan and ready-to-edit drafts. You bring your own AI key, it never posts for you, and it works on Windows and Mac.
+**[AutoSMM](https://github.com/heyshantanugupta/autosmm)** is a social media marketing agent. It turns a short product description into a strategy, a 30-day plan and ready-to-edit drafts. It is a free desktop app for Windows and Mac, you bring your own AI key, and it never posts for you.
 
 ## Research case studies
 
@@ -31,6 +31,8 @@ My work combines UX research, product research, consumer insights, behavioral re
 ![Customer discovery](https://img.shields.io/badge/Customer%20discovery-0f8f7e?style=flat-square)
 ![Survey design](https://img.shields.io/badge/Survey%20design-0f8f7e?style=flat-square)
 ![A/B testing](https://img.shields.io/badge/A%2FB%20testing-0f8f7e?style=flat-square)
+![AI usability research](https://img.shields.io/badge/AI%20usability%20research-0f8f7e?style=flat-square)
+![AI agents](https://img.shields.io/badge/AI%20agents-0f8f7e?style=flat-square)
 ![Mixed methods](https://img.shields.io/badge/Mixed%20methods-0f8f7e?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4a5568?style=flat-square)
 ![Snowflake](https://img.shields.io/badge/Snowflake-4a5568?style=flat-square)
@@ -40,7 +42,7 @@ My work combines UX research, product research, consumer insights, behavioral re
 
 ## Background
 
-I hold an MBA, a B.Tech, and an MS in Game Science and Design. My published research looks at cooperative player behavior in multiplayer games.
+I hold an MBA, a B.Tech, and an MS in Interactive Technologies. My published research looks at cooperative player behavior in multiplayer games.
 
 ## Say hello
 
