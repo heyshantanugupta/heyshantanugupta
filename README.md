@@ -40,7 +40,7 @@ My work combines UX research, product research, consumer insights, behavioral re
 
 ## Background
 
-MBA and B.Tech from NMIMS, and an MS in Game Science and Design from Northeastern University. My published research looks at cooperative player behavior in multiplayer games.
+I hold an MBA, a B.Tech, and an MS in Game Science and Design. My published research looks at cooperative player behavior in multiplayer games.
 
 ## Say hello
 
